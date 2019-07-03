@@ -1,0 +1,716 @@
+Package: com.palringopro.com
+Name: Pamalr
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: فتح مميزات الحسابات المدفوعة *account Premium Free* وتسجيل مقطع صوتي 3:00
+Maintainer: Malr
+Author: r25malr@gmail.com
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 120
+Filename: deb/com.palringopro.com_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3322
+MD5sum: 6d752effd8e226088c885dffe1b4ecb3
+
+
+Package: com.subdiox.storeswitcher2
+Name: StoreSwitcher 2
+Depends: firmware (>= 11), mobilesubstrate
+Architecture: iphoneos-arm
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Maintainer: subdiox
+Author: subdiox
+Section: Tweaks
+Version: 1.0.2
+Installed-Size: 84
+Filename: deb/com.subdiox.storeswitcher2_1.0.2_iphoneos-arm.deb
+Size: 10908
+MD5sum: f45a73490781976f43feead25cd8e5ef
+
+
+
+Package: bz.jed.tweakcompatible
+Name: tweakCompatible
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Adds a way to check tweak compatibility in cydia
+Maintainer: Jed
+Author: Jed
+Section: Tweaks
+Version: 0.0.9
+Installed-Size: 320
+Filename: deb/bz.jed.tweakcompatible_0.0.9_iphoneos-arm.deb
+Size: 44032
+MD5sum: 83ae123dff3f64e147d15146dc524fec
+
+
+Package: net.tateu.photodata
+Name: PhotoData
+Depends: firmware (>=9.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: View Photo Exif data and Video data in the Photos App. Open GPS location in Maps.
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Depiction: http://www.tateu.net/repo/html/?p=photodata
+Section: Tweaks
+Version: 1.0.0~beta19
+Installed-Size: 515
+Filename: deb/net.tateu.photodata_1.0.0~beta19_iphoneos-arm.deb
+Size: 145536
+MD5sum: 8681e0d22a9f363f5da87361d782cc9f
+
+
+Package: com.spicat.recordpause
+Name: RecordPause
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0), ws.hbang.common (>= 1.2)
+Conflicts: org.thebigboss.recordpause
+Architecture: iphoneos-arm
+Description: Pause/resume video recording.
+Maintainer: SpicaT
+Author: SpicaT
+Section: Tweaks
+Icon: file:///Library/PreferenceLoader/Preferences/RecordPause/RP@2x.png
+Version: 1.3.1
+Installed-Size: 420
+Filename: deb/com.spicat.recordpause_1.3.1_iphoneos-arm.deb
+Size: 18412
+MD5sum:e5e16eb0ac23edfdfa6300b577b858c0
+
+
+Architecture: iphoneos-arm
+Name: PhotoTorch
+Package: com.spicat.phototorch
+Author: SpicaT
+Maintainer: SpicaT
+Depends: firmware (>= 6.0), gsc.camera-flash, mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.phototorch
+Replaces: org.thebigboss.phototorch
+Provides: org.thebigboss.phototorch
+Description: adjustable torch for camera app.
+Section: Tweaks
+Version: 1.7
+Installed-Size: 1292
+Filename: deb/com.spicat.phototorch_1.7_iphoneos-arm.deb
+Size: 153870
+MD5sum: 697658d67b384faa39cc44c8ffc4fdf7
+
+
+Name: Spotlightless11
+Package: com.cydiageek.spotlightless11
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Version: 1.0.6
+Architecture: iphoneos-arm
+Description: Get Rid of the Spotlight on iOS 10 and 11!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=spotlightless11Dp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=spotlightless11Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios11
+Installed-Size: 420
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/Spotlightless11.bundle/Spotlightless11@2x.png
+Filename: deb/com.cydiageek.spotlightless11_1.0.6_iphoneos-arm.deb
+Size: 48398
+MD5sum: 80e8f60478cdcb788de5eb050b9c7f8d
+
+
+Package: com.ichitaso.removeadstoggle
+Name: RemoveAdsToggle
+Depends: firmware (>= 4.0), mobilesubstrate
+Replaces: com.ichitaso.removeadstoggle
+Conflicts: com.ichitaso.removeads
+Architecture: iphoneos-arm
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Maintainer: ichitaso
+Homepage: http://ichitaso.com/
+Section: Addons
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios7, compatible::ios8
+Icon: file:///Library/PreferenceBundles/RemoveAdsToggle.bundle/RemoveAdsToggle@2x.png
+Version: 1.4-4
+Installed-Size: 1512
+Filename: deb/com.ichitaso.removeadstoggle_1.4-4_iphoneos-arm.deb
+Size: 149726
+MD5sum: c445fb976e56660a2e2122f21b55fabf
+
+
+Package: com.thecomputerwhisperer.MyMusicPlus
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: Customize your Apple Music app experience! 
+Name: My Music+
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/MyMusic/index.html
+Dev: TheComputerWhisperer
+Icon: file:///Library/PreferenceBundles/MyMusicSettings.bundle/icons/icon@2x.png
+Version: 1.0.6b-1+debug
+Installed-Size: 772
+Filename: deb/com.thecomputerwhisperer.mymusicplus_1.0.6b-1+debug_iphoneos-arm.deb
+Size: 222788
+MD5sum: 222f85ddcf5ebc9a2f3512297d8954e1
+
+
+Package: io.ominousness.stackxi
+Name: StackXI
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), firmware (<= 11.4.1), cy+cpu.arm64
+Architecture: iphoneos-arm
+Conflicts: com.ioscreatix.intelix, com.ioscreatix.intelixbeta
+Description: Grouped notifications, iOS 12 style.
+Maintainer: Nepeta <ominousness@protonmail.com>
+Author: Nepeta <ominousness@protonmail.com>
+Section: Tweaks
+Version: 0.5.5
+Installed-Size: 488
+Filename: deb/io.ominousness.stackxi_0.5.5_iphoneos-arm.deb
+Size: 61416
+MD5sum: 51e989533806aa02e975ae60d6d3a022
+
+
+Package: com.ryleyangus.libertylite
+Name: Liberty Lite
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty
+Architecture: iphoneos-arm
+Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.
+Maintainer: Ryley Angus
+Author: Ryley Angus
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Version: 0.2.10
+Installed-Size: 476
+Filename: deb/com.ryleyangus.libertylite_0.2.10_iphoneos-arm.deb
+Size: 46610
+MD5sum: de8005d35c2204becf725c327f68e1e5
+
+
+Package: co.ios-apps.Q8DVDBreak
+Version: 1.0
+Priority: optional
+Section: IOS_Tweaks
+Maintainer: IOS-APPS.CO
+Depends: firmware (>= 5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Name: Q8DVDBreak
+Author: @FahadAljuwausri
+Sponsor: IOS-APPS.CO
+Icon: NULL\r\n
+Filename: deb/co.ios-apps.q8dvdbreak_1.0_iphoneos-arm.deb
+Size: 4572
+MD5sum: 9a83dcbe742def5d8fc5475ab526f48c
+
+
+Package: co.ios-apps.SnapSafe
+Version: 1.0
+Priority: optional
+Section: IOS_Tweaks
+Maintainer: IOS-APPS.CO
+Depends: firmware (>= 5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Name: SnapSafe
+Author: IOS-APPS.CO
+Sponsor: FahadAljuwausri
+Filename: deb/co.ios-apps.snapsafe_1.0_iphoneos-arm.deb
+Size: 3508
+MD5sum: 0e2e896e147b3f6b30653d69f17aa58d
+
+
+Package: co.ios-apps.WhatsAppBreak
+Version: 1.0
+Priority: optional
+Section: IOS_Tweaks
+Maintainer: IOS-APPS.CO
+Depends: firmware (>= 5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Name: WhatsAppBreak
+Author: FahadAljuwausri
+Sponsor: IOS-APPS.CO
+Icon: NULL\r\n\r\n
+Filename: deb/co.ios-apps.whatsappbreak_1.0_iphoneos-arm.deb
+Size: 2676
+MD5sum: 18f1ce2b4ff4a0aa3b9d96410d4d733d
+
+
+Package: com.arab-cydia.twallve
+Version: 2.1.4
+Section: Tweak_
+Maintainer: PeterDev <djperter@icloud.com>
+Depends: mobilesubstrate, firmware (<<12.0)
+Architecture: iphoneos-arm
+Name: Twallve
+Author: PeterDev <djperter@icloud.com>
+Filename: deb/com.arab-cydia.twallve_2.1.4_iphoneos-arm.deb
+Size: 28536900
+MD5sum: 4bfb07ebd93fd6032bab1c03a3f57e39
+
+
+Name: Phantom (Lite) OKG99 ios11
+Package: com.oneking99.phantom.ios11
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, com.oneking99.phantomcrack11
+Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs,  com.jonluca.sclenses4all, com.cokepokes.libphantom, firmware (>= 12.0)
+Replaces: com.cokepokes.phlite
+Version: 5.3.8.11.beta7
+Architecture: iphoneos-arm
+Description: this version is beta and only for SC 10.18.1 & ios11 Electra users only Modified By @oneking99 
+Maintainer: oneking99
+Author: CokePokes&oneking99
+Section: Tweaks
+Filename: deb/com.oneking99.phantom.ios11_5.3.8.11.beta7_iphoneos-arm.deb
+Size: 9677072
+MD5sum: 328a801d472414b05df2d574d07236d9
+
+
+Package: com.oneking99.phantomcrack11
+Name: PhantomCrack11
+Version: 2.6.11.beta7
+Architecture: iphoneos-arm
+Description: Remove Phantom ads Tested on SC v10.18.1 with my phantom modified v5.3.8.11.beta7 Electra JB only this is modified by@oneking99
+Maintainer: oneking99
+Author: iTheGentle
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 11.0), com.oneking99.phantom.ios11
+Conflicts: firmware (>= 12.0)
+Filename: deb/com.oneking99.phantomcrack11_2.6.11.beta7_iphoneos-arm.deb
+Size: 8736
+MD5sum: cc76efe6a31d2445e4add6d4663823bf
+
+
+Package: com.atwiiks.betterccxi
+Name: BetterCCXI
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Architecture: iphoneos-arm
+Description: Enhance your control center on iOS 11
+Maintainer: ATWiiks
+Author: ATWiiks
+Section: Tweaks
+Version: 1.3.9
+Installed-Size: 320
+Filename: deb/com.atwiiks.betterccxi_1.3.9_iphoneos-arm.deb
+Size: 48552
+MD5sum: a539a4aa5bb33e08845f78089dee88cf
+
+
+Package: com.tigisoftware.appdatamanager
+Name: Apps Manager
+Depends: zip
+Architecture: iphoneos-arm
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Maintainer: TIGI Software
+Author: TIGI Software
+Section: Utilities
+Version: 1.4.2-5
+Installed-Size: 8952
+Filename: deb/com.tigisoftware.appdatamanager_1.4.2-5_iphoneos-arm.deb
+Size: 3690328
+MD5sum: a539a4aa5bb33e08845f78089dee88cf
+
+
+Package: com.yourepo.axam.zoom1
+Name: Zoom+
+Version: 0.1
+Architecture: iphoneos-arm
+Description: زوم للكاميرا الامامية و الخلفيه صور وفيديو ...............
+Author: azam @i4i4i <i4i4i@outlook.sa>
+Section: Tweaks
+Depends: firmware (>=11.0)
+Maintainer: azam @i4i4i <i4i4i@outlook.sa>
+Filename: deb/com.yourepo.axam.zoom1_0.1_iphoneos-arm.deb
+Size: 3984
+MD5sum: fb5111fbf4b9aca8bb5cb99317aeed26
+
+
+Package: com.yourepo.axam.adblockig
+Name: AdBlock iG
+Version: 3.0
+Architecture: iphoneos-arm
+Description: لامزيد من الاعلانات واقتراحات المتابعة المزعجه  في تطبيق انستقرام
+Author: azam @i4i4i <i4i4i@outlook.sa>
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: azam @i4i4i <i4i4i@outlook.sa>
+Filename: deb/com.yourepo.axam.adblockig_3.0_iphoneos-arm.deb
+Size: 5288
+MD5sum: 504d4349b4c381e10ab96f416dcbe3af
+
+
+Package: com.yourepo.axam.getwifi
+Name: Get WiFi
+Version: 2.2
+Architecture: iphoneos-arm
+Description: استمرار الاتصال بنقطة الاتصال حتى عند اغلاق الشاشة
+Author: azam @i4i4i <i4i4i@outlook.sa>
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: azam @i4i4i <i4i4i@outlook.sa>
+Filename: deb/com.yourepo.axam.getwifi_2.2_iphoneos-arm.deb
+Size: 4662
+MD5sum: 8299cabf5547785ae68c09f9b4f5587d
+
+
+Package: com.yourepo.axam.noadappstore
+Name: NoAdAppStore
+Version: 1.0
+Architecture: iphoneos-arm
+Description: إزالة إعلانات وتطبيقات الترند من آب ستور
+Author: azam @i4i4i <i4i4i@outlook.sa>
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: azam @i4i4i <i4i4i@outlook.sa>
+Filename: deb/com.yourepo.axam.noadappstore_1.0_iphoneos-arm.deb
+Size: 5480
+MD5sum: 4309495f0b699e739cc5b19edfa7d6b2
+
+
+Package: com.yourepo.axam.blackkb
+Name: Black KB
+Version: 2.3-1
+Architecture: iphoneos-arm
+Description: تغيير لون الكيبورد الى الاسود..........................
+Author: azam @i4i4i <i4i4i@outlook.sa>
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: azam @i4i4i <i4i4i@outlook.sa>
+Filename: deb/com.yourepo.axam.blackkb_2.3-1_iphoneos-arm.deb
+Size: 4646
+MD5sum: 42e154c6bfb32d1faea29d77c925e394
+
+
+Package: com.yourepo.axam.hidetethering
+Name: Hide Tethering
+Version: 2.1-1
+Architecture: iphoneos-arm
+Description: إخفاء الشريط الازرق لنقطة الاتصال........................
+Author: azam @i4i4i <i4i4i@outlook.sa>
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: azam @i4i4i <i4i4i@outlook.sa>
+Filename: deb/com.yourepo.axam.hidetethering_2.1-1_iphoneos-arm.deb
+Size: 4654
+MD5sum: 89e839db7a8b0eaac425e6d2028d1bce
+
+
+Package: com.yourepo.axam.revokedelete
+Name: Revoke Delete
+Version: 2.3
+Architecture: iphoneos-arm
+Description: مشاهدة الرسائل المحذوفه وامكانية حذف الرسائل المرسله اي وقت في واتساب
+Author: azam @i4i4i <i4i4i@outlook.sa>
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: azam @i4i4i <i4i4i@outlook.sa>
+Filename: deb/com.yourepo.axam.revokedelete_2.3_iphoneos-arm.deb
+Size: 6232
+MD5sum: 63d4194524d1383ba709e636699c5773
+
+
+Package: com.yourepo.axam.bigvideos
+Name: BigVideos
+Version: 5.0
+Architecture: iphoneos-arm
+Description: ارسال فيديو كبير في واتساب
+Author: azam @i4i4i <i4i4i@outlook.sa>
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: azam @i4i4i <i4i4i@outlook.sa>
+Filename: deb/com.yourepo.axam.bigvideos_5.0_iphoneos-arm.deb
+Size: 7122
+MD5sum: 5e66bfe053d877d6d5531ef9d9112b06
+
+
+Package: ru.rejail.localiapstore
+Name: LocalIAPStore
+Version: 1.4-2
+Architecture: iphoneos-arm
+Description: Взлом внутриигровых покупок
+Homepage: http://rejail.ru/pack/localiapstore
+Depiction: http://rejail.ru/depiction.php?file=localiapstore
+Maintainer: ReJail <rejail@rejail.ru>
+Author: anondev
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Section: Tweaks
+Filename: deb/ru.rejail.localiapstore_1.4-2_iphoneos-arm.deb
+Size: 71214
+MD5sum: 55927cb4aeec1eb93f2db8fc234a1809
+
+
+
+Package: com.matchstic.reprovision
+Name: ReProvision
+Version: 0.4.2
+Description: Re-sign applications on your device
+Section: System
+Depends: firmware (>= 9.0)
+Priority: optional
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: Matt Clarke <matt@incendo.ws>
+Homepage: https://github.com/Matchstic/Extender-Installer
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Filename: deb/com.matchstic.reprovision_0.4.2_iphoneos-arm.deb
+Size: 10573694
+MD5sum: e01d764b70d8ad1a9cf35eae944962d4
+
+
+Package: com.yourepo.othmantv.scothmanlite
+Name: SCOthman For Snapchat
+Version: 31.42.01-lite6
+Architecture: iphoneos-arm
+Description: متوافقة مع 10.35.1 ،،،،،،،،،،،،،،،،،،،،،،،،،،،،،
+Author: Othman Alomiry <oooom24@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: com.abcapps.snapplus, com.abcapps.snappluslite, com.cokepokes.phantom, com.hackyouriphone.palbreak, com.yourepo.mohadu31.nosub, com.yourepo.mohadu31.palbreakcyrepo, com.sharedroutine.skylerk99.disbreak, com.sharedroutine.skylerk99.snapbreak, com.sharedroutine.skylerk99.mlbreak, com.hackyouriphone.xconxx, com.repo.xarold.com.xconxx, com.n00neimp0rtant.xconxx, com.yourepo.mohadu31.xconxxx, com.yourepo.mohadu31.xconxxforios9, com.yourepo.goldcydia.xconxx, net.cydia00.xcon, com.ithegentle.phloader, com.yourepo.mohadu31.phloader, net.cydia00.phloader, com.yourepo.mohadu31.phantomcrack, com.yourepo.goldcydia.phantomcrack, net.cydia00.phantomcrack, com.ithegentle.adsremoval
+Maintainer: othmantv <alomiry_yy@hotmail.com>
+Filename: deb/com.yourepo.othmantv.scothmanlite_31.42.01-lite6_iphoneos-arm.deb
+Size: 2677824
+MD5sum: df616bc18a3bb33a820d3eaa709f427b
+
+
+Package: co.dynastic.tsssaver
+Name: TSS Saver
+Architecture: iphoneos-arm
+Description: A one-click tool to save blobs using TSSsaver.1conan.com
+Depiction: https://repo.nullpixel.uk/depiction/co.dynastic.tsssaver/
+Maintainer: Jamie Bishop <jamie@dynastic.co>
+Author: Jamie Bishop <jamie@dynastic.co>
+Section: Utilities
+Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 8.0)
+Version: 1.2.0
+Installed-Size: 444
+Filename: deb/co.dynastic.tsssaver_1.2.0_iphoneos-arm.deb
+Size: 152032
+MD5sum: fe2e43efaa390e4b81f100175ad1cddb
+
+
+Package: com.leftyfl1p.nopromostwitter
+Name: NoPromosTwitter
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Removes all forms of bullshit in twitter.app. @leftyfl1p for updates. Confirmed working on twitter 6.60.
+Depiction: https://leftyfl1p.github.io/depictions/nopromostwitter
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 136
+Filename: deb/com.leftyfl1p.nopromostwitter_1.0.1_iphoneos-arm.deb
+Size: 6374
+MD5sum: df28d8d3f696249f2f25880c083fc880
+
+
+Package: com.leftyfl1p.nopromosappstore
+Name: NoPromosAppStore
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Removes Ads in AppStore searches
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Section: Tweaks
+Depiction: https://leftyfl1p.github.io/depictions/nopromosappstore/
+Version: 1.0.1
+Installed-Size: 136
+Filename: deb/com.leftyfl1p.nopromosappstore_1.0.1_iphoneos-arm.deb
+Size: 2966
+MD5sum: 9e8d125a62407c6099ecc9cb7485d3ae
+
+
+Package: com.julioverne.mimport
+Name: MImport
+Author: julioverne <julioverne@me.com>
+Version: 0.0~beta34a
+Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
+Architecture: iphoneos-arm
+Description: Media Importer Directly From Music App
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.mimport
+Filename: deb/com.julioverne.mimport_0.0~beta34a_iphoneos-arm.deb
+Size: 628510
+MD5sum: 3fedbab5ccdd1f8e21eb58b779821b62
+
+
+Package: com.yourepo.axam.vpn
+Name: #VPN
+Version: 1.11
+Architecture: iphoneos-arm
+Description: ……(فتح جميع مميزات التطبيق )……
+Author: @i4i4i <i4i4i@outlook.sa>
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: azam <i4i4i@outlook.sa>
+Filename: deb/com.yourepo.axam.vpn_1.11_iphoneos-arm.deb
+Size: 4662
+MD5sum: f05b034818bec842663b0ed0c6c10044
+
+
+Package: com.axam.yourepo.intromaker3d
+Name: intro Maker3D
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description:فتح مميزات التطبيق
+Maintainer: azam @i4i4i
+Author: azam @i4i4i
+Section: Tweaks
+Version: 3.4-1+debug
+Installed-Size: 120
+Filename: deb/com.axam.yourepo.intromaker3d_3.4-1+debug_iphoneos-arm.deb
+Size: 4670
+MD5sum: c020dea43dbb9f6a047082bb604f7a5e
+
+
+Package: com.yourepo.axam.8ball
+Name: 8ball
+Version: 1.1
+Architecture: iphoneos-arm
+Description: خط توجية غير محدود، متوافق مع جميع اصدارات اللعبه. انا غير مسؤول عن حظر حسابك. أستخدمك على مسؤوليتك
+Author: azam @i4i4i <i4i4i@outlook.sa>
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: azam @i4i4i <i4i4i@outlook.sa>
+Filename: deb/com.yourepo.axam.8ball_1.1_iphoneos-arm.deb
+Size: 4512
+MD5sum: 7fee1238c111513e06cda8218c14eba2
+
+
+Package: com.axam.yourepo.coloringbook
+Name: Coloring Book Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: ترقية التطبيق الى النسخة الكامله
+Maintainer: azam @i4i4i
+Author: azam @i4i4i
+Section: Tweaks
+Version: 4.1-1+debug
+Installed-Size: 120
+Filename: deb/com.axam.yourepo.coloringbook_4.1-1+debug_iphoneos-arm.deb
+Size: 4498
+MD5sum: b4be869bfffe681b96e0dec0d6044075
+
+
+Package: com.axam.yourepo.cutphotoout
+Name: Cut Photo Out
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description:فتح مميزات التطبيق
+Maintainer: azam @i4i4i
+Author: azam @i4i4i
+Section: Tweaks
+Version: 1.4-1+debug
+Installed-Size: 120
+Filename: deb/com.axam.yourepo.cutphotoout_1.4-1+debug_iphoneos-arm.deb
+Size: 5070
+MD5sum: 048da0527415f5ec1b524027e8356c74
+
+
+Package: com.julioverne.cydown
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Version: 6.9.7
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Cydia Download Manager & Extra Features!
+Homepage: http://twitter.com/ijulioverne
+Depiction: http://julio.xarold.com/files-deb/cydown.html
+Maintainer: Julio
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Filename: deb/com.julioverne.cydown_6.9.7_iphoneos-arm-1.deb
+Size: 1085390
+MD5sum: 7e923c276b894da812f3e775df72ffb7
+
+
+Package: com.julioverne.cracktool3
+Name: CrackTool3 (iOS 11)
+Author: julioverne
+Version: 3.0~beta11
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Architecture: iphoneos-arm
+Description: Crack Tweaks On 1 Touch. arm64. Any Issue Try Reinstall and/or Run CT3 In Safe Mode.
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Utilities
+Filename: deb/com.julioverne.cracktool3_3.0~beta11_iphoneos-arm.deb
+Size: 165344
+MD5sum: 454aebaeb99805d2419c1a6672c75b17
+
+
+Package: com.repo.xarold.com.watchdogpro
+Name: Watchdog Pro
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: full featured app backgrounding management
+Depiction: https://repo.xarold.com/pack/watchdogpro
+Author: Allan Kerr
+Section: Tweaks
+Maintainer: Xarold <contact@xarold.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: org.thebigboss.watchdoglite, com.theronen.watchdog
+Icon: file:///Library/PreferenceBundles/WatchdogPreferences.bundle/Watchdog@2x.png
+Filename: deb/com.repo.xarold.com.watchdogpro_1.0.2_iphoneos-arm.deb
+Size: 59518
+MD5sum: 82bc95a482fe0ac3252b31402c1d8cb9
+
+
+Package: com.yourepo.mohadu31.picaboo
+Name: DzSnap A12
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: New test on iPhone Xs ,XMax, XR
+Depiction: https://mohadu31.com/pack/picaboo
+Author: Mokhles
+Section: DzTweak
+Maintainer: Mohadu313
+Depends: firmware (>= 5.0), mobilesubstrate
+Icon: file:///Library/PreferenceBundles/WatchdogPreferences.bundle/Watchdog@2x.png
+Filename: deb/com.yourepo.mohadu31.picaboo_1.0.3_iphoneos-arm.deb
+Size: 5413122
+MD5sum: 5eac4cb51db7dbc3ee948f9ad0ab42d3
+
+
+Maintainer: LonestarX <me@lonestarx.net>
+Description: Enable iPad-like Safari tabs on any device, always.
+Package: com.bensge.fullsafari
+Section: Tweaks
+Author: bensge <benno@bensge.com>
+Depends: mobilesubstrate
+Installed-Size: 136
+Version: 1.2-1
+Architecture: iphoneos-arm
+Name: FullSafari
+Filename: deb/com.bensge.fullsafari_1.2-1_iphoneos-arm.deb
+Size: 8945
+MD5sum: 69d6cde1677b98567124d7e7f5e16b8f
+
+
+Author: Jake James <jakeashacks@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: RealCC
+Package: com.jakeashacks.realcc
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Installed-Size: 102
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Actually disable Wi-Fi from the iOS 11 CC
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=realccDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=realccDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: jakeashacks
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Filename: deb/com.jakeashacks.realcc_1.0.2_iphoneos-arm.deb
+Size: 4186
+MD5sum: 4cd08f43cce7af370fda8e60a86e3561
+
+
